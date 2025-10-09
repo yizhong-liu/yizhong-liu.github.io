@@ -16,38 +16,109 @@ I was honored to be selected for the **Young Elite Scientists Sponsorship Progra
 
 To date, I have published **over 50 academic papers**, serving as the first or corresponding author on more than 40 of them. My work has been accepted at top-tier venues, including CCF-A journals like *IEEE TDSC, TIFS, and JSAC*, and leading conferences such as *USENIX Security, CCS, NDSS, S&P, CVPR, and WWW*. My survey *Overview on Blockchain Consensus Mechanisms* has been downloaded **over 15,000 times** and received a highly positive academic review from Academician Denguo Feng. My research has also led to 18 granted patents, with an additional 10 currently pending.
 
-I am deeply committed to serving the academic community. I serve as an Executive Committee Member for technical committees within the *CCF, CIE, and CACR*. I have also co-chaired international conferences like *ICBCTIS 2023* and served on the program committees for *TrustCom, Inscrypt, and others*. My editorial contributions include positions on the Youth Editorial Boards for the *ELSP Blockchain* and *Metaverse* journals. Additionally, I am a Specially Appointed Tutor for "Fang Ban," the class led by Academician Fang Binxing, and a regular reviewer for distinguished journals like *IEEE TDSC, TIFS, TC, and others*.
-
-My work has been recognized with several honors, including the **2023 Outstanding Innovation Achievement in Cybersecurity (ranked first)** by *Cyber Security Association of China*, a **First Prize** at the **2023 China Industrial Internet Contest**, and the **2022 Best Paper of the Year Award** from the *Journal of Cryptologic Research*.
-
 ## Publications
 
-- **[CCF-A]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead.* **Network and Distributed System Security Symposium (NDSS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Yuan Lu, Zhuocheng Pan, Yinuo Li, Jianwei Liu, Song Bian, Mauro Conti.
-- **[CCF-A]** *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants.* **USENIX Security Symposium (USENIX Security) 2025.** <u>Yizhong Liu</u>, Zixiao Jia, Zian Jin, Xiao Chen, Song Bian, Runhua Xu, Dawei Li, Jianwei Liu, Yuan Lu.
-- **[CCF-A]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience.*	**ACM Conference on Computer and Communi-cations Security (CCS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Zhuocheng Pan, Yuxuan Hu, Jianwei Liu, Song Bian, Yuan Lu, Zhenyu Guan, Dawei Li, Meikang Qiu.
-- **[CCF-A]** *TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation.* **International Conference on Computer Vision (ICCV) 2025.** Jiale Zhou, Wenhan Wang, Shikun Li, Xiaolei Qu, Xin Guo, <u>Yizhong Liu</u>, Wenzhong Tang, Xun Lin, Yefeng Zheng. 
-- **[CCF-A]** *Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain.*	**Proceedings of the ACM on Web Conference (WWW) 2025.** <u>Yizhong Liu</u>, Zedan Zhao, boyu zhao, Feiang Ran, Xun Lin, Dawei Li, Zhenyu Guan.
-- **[CCF-A]** *FLock: Robust and Privacy- Preserving Federated Learning based on Practical Blockchain State Channels.* **Proceedings of the ACM on Web Conference (WWW) 2025.** <u>Yizhong Liu</u>, Tingyu Fan, Dawei Li, Zhenyu Guan, Jianwei Liu, Jianying Zhou.
-- **[CCF-A]** *CHLOE: Loop Transformation over Fully Homomorphic Encryption via Multi-Level Vectorization and Control- Path Reduction.* **IEEE Symposium on Security and Privacy (S&P) 2024.** Song Bian, Zian Zhao, Ruiyu Shen, Zhou Zhang, Ran Mao, Dawei Li, <u>Yizhong Liu</u>, Masaki Waga, Kohei Suenaga, Zhenyu Guan, Yier Jin, Jianwei Liu.
-- **[CCF-A]** *HideMIA: Hidden Wavelet Mining for Privacy- Enhancing Medical Image Analysis.* **ACM International Conference on Multimedia (ACM MM) 2024.** Xun Lin, Yi Yu, Zitong YU, Ruohan Meng, Jiale Zhou, Ajian Liu, <u>Yizhong Liu</u>    , Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Kot.
-- **[CCF-A]** *Bitcoin-Compatible Privacy-Preserving Multi- Party Payment Channels Supporting Variable Amounts.* **IEEE Transactions on Information Forensics and Security (TIFS), 2025.** <u>Yizhong Liu</u>, Jianwei Liu; Qianhong Wu, Jianying Zhou, Willy Susilo.
-- **[CCF-A]** *Quantum-Resistant Sharding Blockchain and Its Application in Secure Data Transmission.* **IEEE Journal of Selected Areas in Communications (JSAC), 2025.** <u>Yizhong Liu</u>, Boyu Zhao, Xun Lin, Zhenyu Guan, Dawei Li, Jianwei Liu, Qianhong Wu, Willy Susilo, Robert H. Deng.
-- **[CCF-A]** *SharHSC: A Sharding- Based Hybrid State Channel to Realize Blockchain Scalability and Security.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.** <u>Yizhong Liu</u>, Peiyuan Li, Dongyu Li, Chengqi Wu, Nan Jiang, Qianhong Wu, Ankit Gangwal, Prayag Tiwari, Mauro Conti
-- **[CCF-A]** *Multi-Committee ABE Based Decentralized Access Control With Sharding Blockchain for Web 3.0.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Zhenyu Guan, Dongyu Li, Dawei Li, Yuan Lu, Willy Susilo
-- **[CCF-A]** *Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus.* **IEEE Transactions on Information Forensics and Security (TIFS), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Bo Qin, Haibin Zheng, Xiaopeng Dai, Zhenyang Ding, Willy Susilo
-- **[CCF-A]** *Secret Multiple Leaders & Committee Election with Application to Sharding Blockchain.* **IEEE Transactions on Information Forensics and Security (TIFS), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Bo Qin, Xiaopeng Dai, Qiyuan Gao, Willy Susilo
-- **[CCF-A]** *A Flexible Sharding Blockchain Protocol Based on Cross-Shard Byzantine Fault Tolerance.* **IEEE Transactions on Information Forensics and Security (TIFS), 2023.** <u>Yizhong Liu</u>, Xinxin Xing, Haosu Cheng, Dawei Li, Zhenyu Guan, Jianwei Liu, Qianhong Wu
-- **[CCF-A]** *Secure and Scalable Cross- Domain Data Sharing in Zero-Trust Cloud-Edge- End Environment Based on Sharding Blockchain.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.** <u>Yizhong Liu</u>, Xinxin Xing, Ziheng Tong, Xun Lin, Jing Chen, Zhenyu Guan, Qianhong Wu and Willy Susilo
-- **[CCF-A]** *SSHC: A Secure and Scalable Hybrid Consensus Protocol for Sharding Blockchains with a Formal Security Framework[J].*	**IEEE Transactions on Dependable and Secure Computing (TDSC), 2022.** <u>Yizhong Liu</u>, Jianwei Liu, Qianhong Wu, Hui Yu, Yiming Hei, Ziyu Zhou
-- **[ESI Highly Cited & Hot Paper]** *SS-DID: A Secure and Scalable Web3 Decentralized Identity Utilizing Multi-Layer Sharding Blockchain.* **IEEE Internet of Things (IoT), 2024.** <u>Yizhong Liu</u>, Boyu Zhao, Zedan Zhao, Jianwei Liu, Xun Lin, Qianhong Wu, Willy Susilo
-- **[ESI Highly Cited & Hot Paper]** *BFL-SA: Blockchain-Based Federated Learning via Enhanced Secure Aggregation.* **Journal of Systems Architecture (JSA), 2024.** <u>Yizhong Liu</u>, Zixiao Jia, Zixu Jiang, Xun Lin, Jianwei Liu, Qianhong Wu, Willy Susilo
-- *Exposing Image Splicing Traces in Scientific Publications via Uncertainty-guded Redinement.* **Cell Patterns, 2024.** Xun Lin, Wenzhong Tang, Haoran Wang, <u>Yizhong Liu</u>, Yakun Ju, Shuai Wang, Zitong Yu. 
-- *A Comprehensive Survey on Smart Contract Construction and Execution: Paradigms, Tools and Systems.* **Cell Patterns, 2021.** Bin Hu, Zongyang Zhang, Jianwei Liu, <u>Yizhong Liu</u>, Jiayuan Yin, Rongxing Lu, Xiaodong Lin.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead.* **Network and Distributed System Security Symposium (NDSS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Yuan Lu, Zhuocheng Pan, Yinuo Li, Jianwei Liu, Song Bian, Mauro Conti.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants.* **USENIX Security Symposium (USENIX Security) 2025.** <u>Yizhong Liu</u>, Zixiao Jia, Zian Jin, Xiao Chen, Song Bian, Runhua Xu, Dawei Li, Jianwei Liu, Yuan Lu.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience.*	**ACM Conference on Computer and Communi-cations Security (CCS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Zhuocheng Pan, Yuxuan Hu, Jianwei Liu, Song Bian, Yuan Lu, Zhenyu Guan, Dawei Li, Meikang Qiu.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation.* **International Conference on Computer Vision (ICCV) 2025.** Jiale Zhou, Wenhan Wang, Shikun Li, Xiaolei Qu, Xin Guo, <u>Yizhong Liu</u>, Wenzhong Tang, Xun Lin, Yefeng Zheng. 
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain.*	**Proceedings of the ACM on Web Conference (WWW) 2025.** <u>Yizhong Liu</u>, Zedan Zhao, boyu zhao, Feiang Ran, Xun Lin, Dawei Li, Zhenyu Guan.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *FLock: Robust and Privacy- Preserving Federated Learning based on Practical Blockchain State Channels.* **Proceedings of the ACM on Web Conference (WWW) 2025.** <u>Yizhong Liu</u>, Tingyu Fan, Dawei Li, Zhenyu Guan, Jianwei Liu, Jianying Zhou.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Bitcoin-Compatible Privacy-Preserving Multi- Party Payment Channels Supporting Variable Amounts.* **IEEE Transactions on Information Forensics and Security (TIFS), 2025.** <u>Yizhong Liu</u>, Jianwei Liu; Qianhong Wu, Jianying Zhou, Willy Susilo.
+- <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Quantum-Resistant Sharding Blockchain and Its Application in Secure Data Transmission.* **IEEE Journal of Selected Areas in Communications (JSAC), 2025.** <u>Yizhong Liu</u>, Boyu Zhao, Xun Lin, Zhenyu Guan, Dawei Li, Jianwei Liu, Qianhong Wu, Willy Susilo, Robert H. Deng.
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *CHLOE: Loop Transformation over Fully Homomorphic Encryption via Multi-Level Vectorization and Control- Path Reduction.* **IEEE Symposium on Security and Privacy (S&P) 2024.** Song Bian, Zian Zhao, Ruiyu Shen, Zhou Zhang, Ran Mao, Dawei Li, <u>Yizhong Liu</u>, Masaki Waga, Kohei Suenaga, Zhenyu Guan, Yier Jin, Jianwei Liu.
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *HideMIA: Hidden Wavelet Mining for Privacy- Enhancing Medical Image Analysis.* **ACM International Conference on Multimedia (ACM MM) 2024.** Xun Lin, Yi Yu, Zitong YU, Ruohan Meng, Jiale Zhou, Ajian Liu, <u>Yizhong Liu</u>    , Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Kot.
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *SharHSC: A Sharding- Based Hybrid State Channel to Realize Blockchain Scalability and Security.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.** <u>Yizhong Liu</u>, Peiyuan Li, Dongyu Li, Chengqi Wu, Nan Jiang, Qianhong Wu, Ankit Gangwal, Prayag Tiwari, Mauro Conti
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *Multi-Committee ABE Based Decentralized Access Control With Sharding Blockchain for Web 3.0.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Zhenyu Guan, Dongyu Li, Dawei Li, Yuan Lu, Willy Susilo
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *Accountable Secret Committee Election and Anonymous Sharding Blockchain Consensus.* **IEEE Transactions on Information Forensics and Security (TIFS), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Bo Qin, Haibin Zheng, Xiaopeng Dai, Zhenyang Ding, Willy Susilo
+- <span class="label paper-red-tag"><strong>CCF-A, 2024</strong></span> *Secret Multiple Leaders & Committee Election with Application to Sharding Blockchain.* **IEEE Transactions on Information Forensics and Security (TIFS), 2024.** <u>Yizhong Liu</u>, Qianhong Wu, Bo Qin, Xiaopeng Dai, Qiyuan Gao, Willy Susilo
+- <span class="label paper-red-tag"><strong>ESI Highly Cited & Hot Paper, 2024</strong></span> *SS-DID: A Secure and Scalable Web3 Decentralized Identity Utilizing Multi-Layer Sharding Blockchain.* **IEEE Internet of Things (IoT), 2024.** <u>Yizhong Liu</u>, Boyu Zhao, Zedan Zhao, Jianwei Liu, Xun Lin, Qianhong Wu, Willy Susilo
+- <span class="label paper-red-tag"><strong>ESI Highly Cited & Hot Paper, 2024</strong></span> *BFL-SA: Blockchain-Based Federated Learning via Enhanced Secure Aggregation.* **Journal of Systems Architecture (JSA), 2024.** <u>Yizhong Liu</u>, Zixiao Jia, Zixu Jiang, Xun Lin, Jianwei Liu, Qianhong Wu, Willy Susilo
+- <span class="label paper-red-tag"><strong>2024</strong></span> *Exposing Image Splicing Traces in Scientific Publications via Uncertainty-guded Redinement.* **Cell Patterns, 2024.** Xun Lin, Wenzhong Tang, Haoran Wang, <u>Yizhong Liu</u>, Yakun Ju, Shuai Wang, Zitong Yu. 
+- <span class="label paper-red-tag"><strong>CCF-A, 2023</strong></span> *A Flexible Sharding Blockchain Protocol Based on Cross-Shard Byzantine Fault Tolerance.* **IEEE Transactions on Information Forensics and Security (TIFS), 2023.** <u>Yizhong Liu</u>, Xinxin Xing, Haosu Cheng, Dawei Li, Zhenyu Guan, Jianwei Liu, Qianhong Wu
+- <span class="label paper-red-tag"><strong>CCF-A, 2023</strong></span> *Secure and Scalable Cross- Domain Data Sharing in Zero-Trust Cloud-Edge- End Environment Based on Sharding Blockchain.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.** <u>Yizhong Liu</u>, Xinxin Xing, Ziheng Tong, Xun Lin, Jing Chen, Zhenyu Guan, Qianhong Wu and Willy Susilo
+- <span class="label paper-red-tag"><strong>CCF-A, 2022</strong></span> *SSHC: A Secure and Scalable Hybrid Consensus Protocol for Sharding Blockchains with a Formal Security Framework[J].*	**IEEE Transactions on Dependable and Secure Computing (TDSC), 2022.** <u>Yizhong Liu</u>, Jianwei Liu, Qianhong Wu, Hui Yu, Yiming Hei, Ziyu Zhou
+- <span class="label paper-red-tag"><strong>2021</strong></span> *A Comprehensive Survey on Smart Contract Construction and Execution: Paradigms, Tools and Systems.* **Cell Patterns, 2021.** Bin Hu, Zongyang Zhang, Jianwei Liu, <u>Yizhong Liu</u>, Jiayuan Yin, Rongxing Lu, Xiaodong Lin.
 
-## Teaching
 
-As a primary instructor, I teach several core courses, including *Information and Network Security, Operating Systems, Information Network Security Lab, and Principles and Technologies of Blockchain*. I am also leading a **University-Industry Collaborative Education Program** by the *Ministry of Education of China* focused on cultivating a first-class teaching faculty for nurturing top-tier innovative talent in cyberspace security.
+## Social Service
 
-I am passionate about student mentorship, and I am proud of my students' many accomplishments. I have guided multiple undergraduate teams in the **National Undergraduate Training Program for Innovation and Entrepreneurship**; one team's project was designated as a "key support project" (top 2%) and received an "Excellent" rating upon completion, for which I was named an Outstanding Advisor. My students have also achieved significant success in national competitions. Most recently, teams I supervised won First Prize at the **2023 National College Student Information Security Contest** and First Prize at the **2023 China Graduate Cyber Security Innovation Competition**, earning me the Outstanding Advisor award at both events. Other notable achievements include a First Prize (Beijing region) at the **2023 "Internet+" Innovation and Entrepreneurship Competition** and a Second Prize at the **CCF & ATEC Collegiate Blockchain Security Technology and Innovation Competition**.
+Journal Editorial Services:
+- Guest Editor, Frontiers in Blockchain
+- Youth Editorial Board Member, ELS Publishing Blockchain Journal (Sep. 2023 - Present)
+- Youth Editorial Board Member, Metaverse (Mar. 2024 - Present)
+  
+Conference Organization & Program Committee:
+- PC Member, The Web Conference (WWW) 2026 (CCF A)
+- TPC Member, IEEE Global Blockchain Conference 2024
+- PC Member, IEEE International Conference on Communication Technology (ICCT) 2023
+- PC Member, International Conference on Cryptology and Network Security (Inscrypt) 2023 (CCF C)
+- External Reviewer / PC Member, IEEE International Conference on Blockchain (Blockchain) 2024
+- External Reviewer / PC Member, International Conference on Blockchain and Trustworthy Systems (ICBCTIS) 2023 (EI)
+- External Reviewer / PC Member, IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2022 (EI)
+- External Reviewer / PC Member, International Conference on Smart Blockchain (SmartBlock) 2021 (EI)
+- Workshop Chair, The 2nd International Workshop on Emerging Intelligent Pervasive Computing (EIPC)
 
-Furthermore, two of my students were selected for the inaugural **Student Innovation Funding Program** by the *Cyberspace Administration of China (CAC)*. Of the six undergraduate students whose theses I have supervised, one was named a **"Outstanding Graduate of Beijing"**, and three others earned **"Outstanding Graduate of Beihang University"** honors. For my contributions to education, I have been honored with the Grand Prize for **Graduate Teaching Achievement** and the Second Prize for **Undergraduate Teaching Achievement** from *Beihang University*.
+Professional Affiliations & Other Services:
+- Member, Academic Committee of "Yin Yu", Ant Financial Technology
+- Member, China Computer Federation (CCF) Blockchain Committee
+- Member, Chinese Institute of Electronics, Expert Committee on Cyberspace Security
+- Distinguished Tutor, "Fang Class" led by Academician Bin-xing Fang
+- Distinguished Main Questioner, "Fang Class" led by Academician Bin-xing Fang
+- Outstanding Tutor Award, "Fang Class" led by Academician Bin-xing Fang
+
+## Honors & Awards
+
+- First Prize of Science and Technology Progress Award, Chinese Institute of Command and Control (CICC), Jul. 2025
+- Excellent Teaching Achievement Award (Grand Prize), Beihang University, Jan. 2024
+- Excellent Teaching Achievement Award (Second Prize), Beihang University, Jan. 2024
+- Outstanding Advisor, CCF & ATEC Collegiate Blockchain Security Technology and Innovation Application Competition, China Computer Federation (CCF), Dec. 2023
+- Senior Technician Certificate (Level 1) of Network and Information Security Administrator, Chinese Institute of Command and Control (CICC), Dec. 2023
+- Third Prize, National Industry and Information Technology Skills Competition, Co-hosted by the Ministry of Industry and Information Technology, Ministry of Human Resources and Social Security, Ministry of Education, etc., Nov. 2023
+- Outstanding Advisor, China Postgraduate Cyber Security Innovation Competition, China Academic Degrees & Graduate Education Development Center (CDGDC), Nov. 2023
+- Best Paper of the Year, Journal of Cryptologic Research, Chinese Association for Cryptologic Research (CACR), Nov. 2022
+- Outstanding Advisor for National College Students Information Security Contest, Information Security Professional Teaching Steering Committee of the Ministry of Education, Aug. 2023
+- First Prize, China Industrial Internet Security Competition, The Organizing Committee & Ministry of Industry and Information Technology (MIIT), Jul. 2023
+- Excellent Paper Award, 2023 Cyberspace Security Conference, Chinese Institute of Electronics (CIE), Jun. 2023
+- Excellent Innovation Achievement Award of Cyberspace Security, Cyber Security Association of China (CSAC), May 2023
+- CICC Outstanding Doctoral Dissertation, Chinese Institute of Command and Control (CICC), Jan. 2023
+- Outstanding Advisor for Student Innovation and Entrepreneurship, [Date or Awarding Body, e.g., Beihang University], 2023
+
+## Teaching, Mentorship & Supervision
+
+Courses Taught：
+- Information and Network Security
+- Information Network Security Lab
+- Operating Systems
+- Principles and Technologies of Blockchain
+
+Program Leadership:
+- Lead, University-Industry Collaborative Education Program, Ministry of Education of China.
+
+Competition Advising Awards:
+- Outstanding Advisor, 2023 National College Student Information Security Contest (Supervised team won First Prize).
+- Outstanding Advisor, 2023 China Graduate Cyber Security Innovation Competition (Supervised team won First Prize).
+- Outstanding Advisor, National Undergraduate Training Program for Innovation and Entrepreneurship.
+
+Supervised Student Achievements:
+
+Competitions:
+
+- First Prize, 2023 National College Student Information Security Contest.
+
+- First Prize, 2023 China Graduate Cyber Security Innovation Competition.
+
+- First Prize (Beijing Region), 2023 "Internet+" Innovation and Entrepreneurship Competition.
+
+- Second Prize, CCF & ATEC Collegiate Blockchain Security Technology and Innovation Competition.
+
+Innovation Programs:
+
+- Guided a team in the National Undergraduate Training Program for Innovation and Entrepreneurship whose project was designated a "key support project" (top 2%) and rated "Excellent".
+- Mentored two students selected for the inaugural Student Innovation Funding Program by the Cyberspace Administration of China (CAC).
+
+Thesis & Graduate Honors (6 undergraduate theses supervised):
+
+- One student named "Outstanding Graduate of Beijing".
+- Three students named "Outstanding Graduate of Beihang University".
+
