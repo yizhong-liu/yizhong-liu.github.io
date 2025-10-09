@@ -1,0 +1,36 @@
+.section-collapsible {
+  border: 1px solid var(--global-border-color, #e0e0e0);
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+.section-collapsible__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  background: var(--overlay-bg, rgba(0,0,0,0.02));
+  border-bottom: 1px solid var(--global-border-color, #e0e0e0);
+}
+
+.section-collapsible__header h2 {
+  margin: 0;
+}
+
+.section-collapsible__icon {
+  transition: transform 0.2s ease;
+}
+
+.section-collapsible[aria-expanded="false"] .section-collapsible__icon {
+  transform: rotate(-90deg);
+}
+
+.section-collapsible__content {
+  overflow: hidden;
+}
+
+.section-collapsible__content[hidden] {
+  display: none;
+}
+
