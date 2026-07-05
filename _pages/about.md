@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+
 **Yizhong Liu (刘懿中)**, Associate Professor, School of Cyber Science and Technology, Beihang University
 
 I am an Associate Professor at the School of Cyber Science and Technology at Beihang University. My primary research interests lie in the fields of **cryptography, blockchain, and federated learning**. I am a Senior Member of the *Chinese Institute of Command and Control (CICC)* and an active member of the *Chinese Institute of Electronics (CIE)*, *China Computer Federation (CCF)*, and the *Chinese Association for Cryptologic Research (CACR)*.
