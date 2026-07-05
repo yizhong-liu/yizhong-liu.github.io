@@ -14,10 +14,20 @@ I am an Associate Professor at the School of Cyber Science and Technology at Bei
 
 I was honored to be selected for the **Young Elite Scientists Sponsorship Program** by *the China Association for Science and Technology (CAST)* and to receive the **Outstanding Doctoral Dissertation Award** from the *CICC*. I currently lead **11 research projects** funded by organizations such as the **Young Scientists Fund** of the *National Natural Science Foundation of China (NSFC)* and the *Beijing Natural Science Foundation*. I have also participated in **6 major national-level research initiatives**, including the *National Key R&D Program of China*.
 
-To date, I have published **over 50 academic papers**, serving as the first or corresponding author on more than 40 of them. My work has been accepted at top-tier venues, including CCF-A journals like *IEEE TDSC, TIFS, and JSAC*, and leading conferences such as *USENIX Security, CCS, NDSS, S&P, CVPR, and WWW*. My survey *Overview on Blockchain Consensus Mechanisms* has been downloaded **over 15,000 times** and received a highly positive academic review from Academician Denguo Feng. My research has also led to 18 granted patents, with an additional 10 currently pending.
+To date, I have published **over 60 academic papers**, serving as the first or corresponding author on more than 50 of them. My work has been accepted at top-tier venues, including CCF-A journals like *IEEE TDSC, TIFS, and JSAC*, and leading conferences such as *USENIX Security, CCS, NDSS, S&P, CVPR, and WWW*. My survey *Overview on Blockchain Consensus Mechanisms* has been downloaded **over 15,000 times** and received a highly positive academic review from Academician Denguo Feng. My research has also led to 18 granted patents, with an additional 10 currently pending.
 
 ## Publications
 
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *Multi-Leader Byzantine Fault Tolerance in Blockchain: Performance and Security.* **IEEE Transactions on Information Forensics and Security (TIFS), 2026.** <u>Yizhong Liu</u>, Boyu Zhao, Mingzhe Zhai, Xun Lin, Chenhao Ying, Zhenyu Guan, Dawei Li, Qianhong Wu, Willy Susilo, Robert H. Deng.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead.* **USENIX Security Symposium (USENIX Security) 2026.** <u>Yizhong Liu</u>, Boyu Zhao, Yuxuan Hu, Haojun Tan, Feiang Ran, Andi Liu, Zhuocheng Pan, Yuan Lu, Song Bian, Jianwei Liu, Zhenyu Guan.
+- <span class="label paper-red-tag"><strong>CCF-C, 2026</strong></span> *Blockchain-Assisted Lightweight Broadcast Encryption with Revocation Support for Secure ADS-B in IoT Aviation.* **IEEE Internet of Things Journal, 2026.** Xuejun Zhang, Chong Yao, <u>Yizhong Liu</u>, Boyu Zhao, Cheng Chi, Haohua Du.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *Xemis: Fair and Robust Privacy-Preserving Data Trading based on Distributed Noise Sharing.* **Proceedings of the ACM on Web Conference (WWW) 2026.** Xinxin Xing, <u>Yizhong Liu</u>, Ruonan Chen, Banghong Qin, Wangjie Qiu, Jianwei Liu, Qianhong Wu, Willy Susilo, Robert H. Deng.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *ShadowClone: Scalable Decentralized Identity with Cross-Domain Anonymity and Accountable Traceability.* **Proceedings of the ACM on Web Conference (WWW) 2026.** <u>Yizhong Liu</u>, Zedan Zhao, Boyu Zhao, Na Wang, Haojun Tan, Jianwei Liu.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications.* **IEEE Symposium on Security and Privacy (S&P) 2026.** Xinxin Xing, <u>Yizhong Liu</u>, Boyang Liao, Jianwei Liu, Bin Hu, Xun Lin, Yuan Lu, Tianwei Zhang.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *Kairos: Efficient High-Threshold Asynchronous Distributed Key Generation from Lightweight Cryptography.* **ACM Conference on Computer and Communications Security (CCS) 2026.** Xinxin Xing, <u>Yizhong Liu</u>, Zifan Li, Jianwei Liu, Yudi Yang, Yuan Lu, Song Bian, Zhenyu Guan, Tianwei Zhang.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *SharBipole: Secure and Scalable Sharding Blockchain Based Federated Learning Against Poisoning Attacks.* **IEEE Transactions on Information Forensics and Security (TIFS), 2026.** ZiAn Jin, Dawei Li, Jianwei Liu, Hao Peng, Qianhong Wu, Zhenyu Guan, Willy Susilo, Robert H. Deng, <u>Yizhong Liu</u>.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *EdgeGuard: Blockchain-Enhanced Secure Data Circulation via Aggregatable Distributed Key Generation.* **IEEE Transactions on Dependable and Secure Computing (TDSC), 2026.** Boyang Liao, Jianwei Liu, Xinxin Xing, Jian Cui, Willy Susilo, Robert H. Deng, <u>Yizhong Liu</u>.
+- <span class="label paper-red-tag"><strong>CCF-A, 2026</strong></span> *Poros: Secure and Highly Parallel Sharding Blockchain with Optimized Cross-Shard Transaction Processing.* **ACM Conference on Computer and Communications Security (CCS) 2026.** Zhuocheng Pan, Jianwei Liu, Andi Liu, Yuxuan Hu, Boyu Zhao, Zhenyu Guan, Gerui Wang, Mingchao Wan, <u>Yizhong Liu</u>.
 - <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead.* **Network and Distributed System Security Symposium (NDSS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Yuan Lu, Zhuocheng Pan, Yinuo Li, Jianwei Liu, Song Bian, Mauro Conti.
 - <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants.* **USENIX Security Symposium (USENIX Security) 2025.** <u>Yizhong Liu</u>, Zixiao Jia, Zian Jin, Xiao Chen, Song Bian, Runhua Xu, Dawei Li, Jianwei Liu, Yuan Lu.
 - <span class="label paper-red-tag"><strong>CCF-A, 2025</strong></span> *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience.*	**ACM Conference on Computer and Communi-cations Security (CCS) 2025.** <u>Yizhong Liu</u>, Andi Liu, Zhuocheng Pan, Yuxuan Hu, Jianwei Liu, Song Bian, Yuan Lu, Zhenyu Guan, Dawei Li, Meikang Qiu.
@@ -49,6 +59,7 @@ Journal Editorial Services:
 - Youth Editorial Board Member, Metaverse (Mar. 2024 - Present)
   
 Conference Organization & Program Committee:
+- PC Member, USENIX Security Symposium (USENIX Security) 2027 (CCF A)
 - PC Member, The Web Conference (WWW) 2026 (CCF A)
 - TPC Member, IEEE Global Blockchain Conference 2024
 - PC Member, IEEE International Conference on Communication Technology (ICCT) 2023
@@ -121,4 +132,3 @@ Thesis & Graduate Honors (6 undergraduate theses supervised):
 
 - One student named "Outstanding Graduate of Beijing".
 - Three students named "Outstanding Graduate of Beihang University".
-
